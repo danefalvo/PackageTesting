@@ -1,0 +1,13 @@
+/home/danef/Documents/development/TestTCPackage/bin/Debug/netcoreapp3.1/TestTCPackage
+/home/danef/Documents/development/TestTCPackage/bin/Debug/netcoreapp3.1/TestTCPackage.deps.json
+/home/danef/Documents/development/TestTCPackage/bin/Debug/netcoreapp3.1/TestTCPackage.runtimeconfig.json
+/home/danef/Documents/development/TestTCPackage/bin/Debug/netcoreapp3.1/TestTCPackage.runtimeconfig.dev.json
+/home/danef/Documents/development/TestTCPackage/bin/Debug/netcoreapp3.1/TestTCPackage.dll
+/home/danef/Documents/development/TestTCPackage/bin/Debug/netcoreapp3.1/TestTCPackage.pdb
+/home/danef/Documents/development/TestTCPackage/obj/Debug/netcoreapp3.1/TestTCPackage.csprojAssemblyReference.cache
+/home/danef/Documents/development/TestTCPackage/obj/Debug/netcoreapp3.1/TestTCPackage.AssemblyInfoInputs.cache
+/home/danef/Documents/development/TestTCPackage/obj/Debug/netcoreapp3.1/TestTCPackage.AssemblyInfo.cs
+/home/danef/Documents/development/TestTCPackage/obj/Debug/netcoreapp3.1/TestTCPackage.csproj.CoreCompileInputs.cache
+/home/danef/Documents/development/TestTCPackage/obj/Debug/netcoreapp3.1/TestTCPackage.dll
+/home/danef/Documents/development/TestTCPackage/obj/Debug/netcoreapp3.1/TestTCPackage.pdb
+/home/danef/Documents/development/TestTCPackage/obj/Debug/netcoreapp3.1/TestTCPackage.genruntimeconfig.cache
